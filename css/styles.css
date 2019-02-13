@@ -5,8 +5,9 @@ body {
   background: gray;
 }
 
-* {
-  outline: 1px dotted black;
+iframe {
+  border: 5px solid hotpink;
+  width: 100%;
 }
 
 /* Your Awesome Scripts */
